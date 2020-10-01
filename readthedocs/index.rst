@@ -1,5 +1,5 @@
 ========================
-Telethon's Documentation
+Telethon开发文档
 ========================
 
 .. code-block:: python
@@ -17,31 +17,25 @@ Telethon's Documentation
       client.run_until_disconnected()
 
 
-* Are you new here? Jump straight into :ref:`installation`!
-* Looking for the method reference? See :ref:`client-ref`.
-* Did you upgrade the library? Please read :ref:`changelog`.
-* Used Telethon before v1.0? See :ref:`compatibility-and-convenience`.
-* Coming from Bot API or want to create new bots? See :ref:`botapi`.
-* Need the full API reference? https://tl.telethon.dev/.
+* 你是新手吗? 开始安装吧 :ref:`installation`!
+* 还在寻找参考办法? 请查阅 :ref:`client-ref`.
+* 你是否升级了依赖库? 请阅读 :ref:`changelog`.
+* 曾经使用过telethon v1.0? 请看 :ref:`compatibility-and-convenience`.
+* 来自Bot API 还是想要创建一个新的机器人? 请看 :ref:`botapi`.
+* 是否需要完整的API参考? https://tl.telethon.dev/.
 
 
-What is this?
+Telethon是什么?
 -------------
 
-Telegram is a popular messaging application. This library is meant
-to make it easy for you to write Python programs that can interact
-with Telegram. Think of it as a wrapper that has already done the
-heavy job for you, so you can focus on developing an application.
+Telegram 是一个流行的即时消息应用程序. Telethon库将使您能够轻松编写可与Telegram进行交互的Python程序. Telethon已为您扫除了大多数的障碍, 因此您可以专注于开发一个应用程序.
 
 
-How should I use the documentation?
+如何使用该开发文档?
 -----------------------------------
 
-If you are getting started with the library, you should follow the
-documentation in order by pressing the "Next" button at the bottom-right
-of every page.
+如果您刚开始接触Telethon, 请按照每个页面的步骤,一步步地进行学习;当然如果您有一定的基础,您也可以使用左侧的菜单快速跳过,选择您想要学习的部分.
 
-You can also use the menu on the left to quickly skip over sections.
 
 .. toctree::
     :hidden:
